@@ -1,0 +1,27 @@
+.header{
+	height: 10%;
+	width: 100%;
+	background-color: #4CAF50;
+	position: fixed;
+}
+
+.main{
+	background-color: #616161;
+	height: 80%;
+	width: 80%;
+	float: left;
+}
+
+.footer{	
+	background-color: #616161;
+	height: 10%;
+	width: 100%;
+	float: left;
+}
+
+.side{
+	background-color: #9E9E9E;
+	height: 80%;
+	width: 10%;
+	float: left;
+}
